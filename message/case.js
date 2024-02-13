@@ -4275,6 +4275,9 @@ case 'infoall': case 'tagall':
 	┏━⬣`+tes+`┗━⬣`, members_id, false)
 	break
 case 'del':
+    if (!isGroupAdmins && !isOwner) return reply(mess.only.admin)
+	if (!isGroup) return reply(mess.only.group)
+	if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 	if(!mentionByReply) return reply("Reply pesan")
 	if (mentionByReply == botNumber) {
 	alice.sendMessage(from, { delete: { remoteJid: from, fromMe: true, id: m.quoted.id, participant: mentionByReply } })
