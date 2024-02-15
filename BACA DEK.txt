@@ -1,4 +1,4 @@
-POWERED BY DARWIN
+POWERED BY FANZ
 
 script ini memiliki 2 opsi untuk mengkoneksikan
 perangkat Whatsapp anda dengan bot
@@ -15,22 +15,8 @@ anda bisa mengubah command run di bagian startup panel anda
 untuk cara mengubah thumbnail, harap gunakan url di setting.js
 
 
-Ada pertanyaan lain? chat darwin dibawah
+Ada pertanyaan lain? chat Fanz dibawah
 
-WhatsApp : +62 838-1742-1530
-Telegram : t.me/DalwinOfficial
-Instagram : @bg.dalwin
-
-Credit >
-this original script from Official Dittaz Team
-
-SCRIPT INI GRATIS!! GET UPDATE ON YOUTUBE
-
-
-
-Darwin Sedia Jasa Pembuatan Script Bot Custom Untuk Telegram Dan Whatsapp
-Darwin Sedia Panel Murah Bergaransi Untuk Bot Whatsapp & Mcpe
-Darwin Sedia Jasa Recode Script - Addfitur - rename - fix dll
-Darwin Sedia Vps & Digital Ocean Untuk Pterodactyl
-Darwin Sedia Jasa Pembuatan Aplikasi Bisnis Khusus
-Darwin Sedia Jasa Pembuatan Website & Blog Pribadi
+WhatsApp : +62 858-1237-3011
+Telegram : 
+Instagram : 
